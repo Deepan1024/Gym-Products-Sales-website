@@ -1,0 +1,279 @@
+       
+       
+        body
+         {
+       font-family: "Eagle Lake", serif;
+       font-weight: 400;
+      font-style: normal;
+}
+
+       
+     
+     .div2{
+         background-color: silver;
+         padding: 20px;
+         position: sticky;
+        top: 0;
+        z-index: 1;
+/* 
+      .heading-container {
+  display: inline-block;
+  padding: 20px 40px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  transition: all 0.3s ease;
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+.heading-container:hover {
+  box-shadow: 0 0 20px rgba(0, 150, 255, 0.8);
+  color: #0096ff;
+  transform: scale(1.05);
+} */
+
+       } 
+
+     #X{
+     
+     padding: 20px;
+      display: inline;
+     
+      
+     }
+
+     #X:hover{
+      
+      box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+       
+     }
+
+
+     #x{
+      text-decoration: none;
+      color: blue;
+      
+     }
+     
+     
+
+     h2{
+        display: inline;
+        margin-left: 200px;
+       color: darkblue;
+      }
+      
+      h2:hover{
+       background-color: gray;
+        padding: 22px;
+      }
+ 
+      #div1{
+       color:rgb(205, 163, 247);
+       text-align: center;
+      }  
+
+      #div1{
+       height: 100%;
+       background-image: url("COMMERCIAL-2048x2048.jpg.webp");
+       background-repeat: no-repeat;
+       background-size: 100% 500px;
+      max-height: max-content;
+      padding: 180px;
+      } 
+
+      h6{
+        margin-top: 250px;
+      }
+
+      h4{
+        
+        font-size: larger;
+        text-align: center;
+        
+      }
+      
+     #B,#R,#U,#H{
+        color: rgb(11, 10, 10); 
+        display: inline-table;
+        margin-left: 85px;
+        
+      }
+
+      #div3{
+        color: white;
+        background-color: rgb(9, 4, 4);
+        list-style-type: none;
+        text-align: center;
+        margin-right: 40px;
+        
+      }
+      
+      #div4{
+        color: white;
+        background-color: black;
+        text-align: center;
+        margin-left: 60px;
+        margin-top: 16px;
+        
+      }
+     
+     
+     
+     #About{
+      font-size: larger;
+       text-decoration: underline;
+         text-underline-offset: 5px;
+     }
+    
+     #Y{
+       text-decoration: none;
+      color: white;
+      
+     }  
+
+     #new{
+      background-color: white;
+     }
+
+     span{
+      font-size: larger;
+     }
+
+     .div6{
+      color: darkorange;
+      text-align: center;
+      background-color: white;
+      background-image: url("DUMBBELLS-2048x2048.jpg.webp");
+      background-repeat: no-repeat; 
+      height: 100%;
+      background-size: 150% 400px;
+      max-height: max-content;
+      justify-content: center;
+     }
+
+    .form{
+      background-color: black;
+    }
+
+     .div8{
+       color: darkorange;
+      text-align: center;
+      background-color: white;
+      background-image: url("DUMBBELLS-2048x2048.jpg.webp");
+      background-size: cover; 
+      background-repeat: no-repeat;
+      height: 1500px;
+      background-size: 100% 400px;
+      max-height: max-content;
+      justify-content: center;
+      
+     }
+
+     #B:hover{
+      opacity: 0.5;
+      
+     }
+    
+      #R:hover{
+        opacity: 0.5;
+       
+      }
+
+      #U:hover{
+        opacity: 0.5;
+        
+      }
+
+      #H:hover{
+        opacity: 0.5;
+        
+      } 
+
+      img{
+        border-radius: 5px;
+       
+      }
+
+      h5{
+        text-align: center;
+      }
+
+      .div9{
+        list-style-type: none;
+        text-decoration: none;
+        display: none;
+        position: absolute;
+        padding: 8px;
+        transform: translateX(80px);
+      }
+
+      .div2 li:nth-child(2):hover .div9{
+        display: block;
+        background-color:lightgray;
+      }
+
+      .div9 a{
+        text-decoration: none;
+        color: blueviolet;
+      }
+
+     
+
+      #new{
+        color: white;
+        background-color: black;
+        display: flex;
+        
+      }
+
+     #fit{
+      
+       color: gray;
+       /* margin-left: 200px; */
+       margin-top: 300px;
+     }
+
+     #t:hover{
+      box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75); 
+     }
+
+     #c:hover{
+      box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75); 
+     }
+
+     #s:hover{
+         box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75); 
+     }
+
+     #i:hover{
+         box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -webkit-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75);
+      -moz-box-shadow: 10px 10px 5px 0px rgba(151,137,137,0.75); 
+     }
+
+     h1{
+      text-align: center;
+      color: white;
+      
+     }
+
+     #n{
+      text-align: center;
+      list-style-type:none;
+     }
+
+    .gym{
+      background-color: black;
+    }
+    
